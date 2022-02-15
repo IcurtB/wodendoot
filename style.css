@@ -1,0 +1,422 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital@0;1&family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+.flex{
+    display: flex;
+}
+.picture_box{
+    height: 155px;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+.duet{
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+}
+body, .allzero{
+    margin: 0px;
+    padding: 0px;
+}
+.solo{
+    align-items: center;
+    align-content: center;
+    margin: 0 45px;
+    font-size: 12px;
+}
+.picture_text_area{
+    margin: 0 20px;
+  
+}
+/* ======== */
+.nav_bar{
+    width: 1440px;
+    height: 69px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-bottom: 39px;
+    position: relative;
+}
+div>nav>a{
+    text-decoration: none;
+    color: black;
+    font-family: Cardo;
+    text-align: center;
+    line-height: 23.02px;
+    font-size: 17px;
+    margin: 0 20px;
+}
+
+.main_logo{
+    position: absolute;
+    top: 16px;
+    left: 632px;
+
+}
+/* ======= */
+.bed{
+    position: relative;
+}
+.bed>h2{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+    font-weight: 700;
+    width: 807px;
+    font-size: 27px;
+    line-height: 38.4px;
+    position: absolute;
+    top: 257px;
+    right: 316px;
+    text-align: center;
+    color: white;
+}
+.bed>p{
+    width: 204px;
+    height: 33px;
+    border: 1px solid #fff;
+    font-family: Cardo;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    color: #fff;
+    top: 365px;
+    right: 618px ;
+    font-size: 20px;
+}
+
+/* ======= */
+.box{
+    max-width: 1440px;
+    min-width: 1440px;
+    margin: 0 auto;
+    /* border: 1px solid red; */
+    background-color: #F7F7F7;
+}
+
+.closet {
+    margin-left: 48px;
+    margin-bottom: 29px;
+
+}
+.space{
+    height: 115px;
+}
+
+.big_picture{
+    align-content: space-between;
+    align-items: stretch;
+}
+
+/* .block{
+    display: block;
+   
+    color: #525252;
+} */
+
+
+.pelican{
+    margin-right: 38px;
+    align-items: center;
+    margin-bottom: 29px;
+}
+
+.black{
+    color: black;
+}
+
+.second{
+    margin-top: 56px ;
+}
+.alada_text{
+    margin:  47px 0 0 0;
+}
+.alada{
+    align-items: center;
+    margin-left: 48px;
+    margin-bottom: 29px;
+}
+.alada_collection{
+    margin-right: 48px;
+    align-items: center;
+    margin-bottom: 29px;
+}
+.alda_text{
+    margin-top: 30px;
+}
+.bateaCollect{
+    margin: 20px 0 0 0;
+}
+.batea{
+    margin-top: 90px;
+}
+.batea_picture{
+    margin-left: 48px;
+    margin-bottom: 59px;
+}
+.shift{
+    margin: 0 -22px 60px 0;
+}
+.top{
+    margin-top: 58px;
+}
+
+
+/* ---- Inside Home ------- */
+
+.panorama{
+    /* display: flex; */
+    margin: 0 auto;
+    justify-content: center;
+    /* margin: 0; */
+}
+.left{
+    position: relative;
+}
+
+.midle{
+    position: relative;
+    margin: 0 10px;
+} 
+
+.right_{
+    position: relative;
+}
+
+.inside_home{
+    width: 1440px;
+
+    text-align: center;
+}
+
+.link_icon{
+    position: absolute;
+    top: 41px;
+    right: 20px;
+}
+.icon{
+    margin: 4px 4px 0 0;
+}
+
+.slide{
+    width: 1440px;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.slide_rac{
+    display: flex;
+    margin: 0 10px;
+    width: 200px ;
+    height: 10px;
+    margin-top: 18px;
+}
+.ractangle{
+    background-color: black;
+    width: 9px;
+    height: 9px;
+    margin: 0 2.5px;
+}
+/* ---------------------- */
+/* space text */
+.space_text{
+    width: 1440px;
+    text-align: center;
+    /* border: 1px solid red; */
+    height: 312px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto   ;
+    margin-bottom: 44px;
+
+}
+.description{
+    margin: 0 auto  ;
+    width: 1190px;
+    font-family: Cardo;
+    font-style: italic;
+    font-size: 20px;
+}
+.author{
+    font-family: Cardo;
+    font-size: 15px;
+}
+.rac_min{
+    margin-top: 40px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+.min_rac{
+    width: 7px;
+    height: 7px;
+    background-color: black;
+    margin: 0 6px 0 5px;
+}
+.mini_rac{
+    width: 3px;
+    height: 3px;
+    background-color: black;
+    margin: 0 6px;
+}
+/* ------------------------ */
+        /* QUARTET */
+
+.quartet{
+    width: 1440px;
+    display: flex;
+}
+.big_rac{
+    width: 360px;
+    height: 370px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+.d_title{
+    font-family: Cardo;
+    font-size: 24px;
+    line-height: 35px;
+}
+.d_text{
+    font-family: Cardo;
+    font-size: 15px;
+    line-height: 27.86px;
+    text-align: center;
+}
+
+
+
+/*LONG LOGO  */
+
+.long_logo{
+    width: 1440px;
+    height: 315px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.up_text{
+    margin: 0;
+    padding: 0;
+    font-family: Cardo;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.3px;
+}
+
+.logo_stend{
+    margin-top: 41px;
+}
+
+/* FOOTER */
+
+.footer{
+    width: 1440px;
+    height: 448px;
+    background-color: #E9E9E9;
+}
+.footer_up{
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* margin-bottom: 4px; */
+}
+.footer_up>div{
+    width: 208px;
+    height: 264.16px;
+}
+.footer_up>div>.head{
+    font-family: 'Cardo';
+    text-transform: uppercase;
+    font-size: 21px;
+    line-height: 21px;
+    text-align: center;
+    margin: 55px 0 45px 0;
+
+}
+.footer_up>div>p{
+    font-family: 'Cardo';
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    margin: 13px 0;
+}
+.first_column{
+    margin-left: 160px;
+    margin-right: 30px;
+}
+.second_column{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.third_column{
+    margin-left: 30px;
+    margin-right: 123px;
+}
+.fourth_column{
+    width: 342px!important;
+    height: 284.16px!important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.head_p{
+    margin: 49px 0 17px 0!important;
+}
+.color_block{
+    width: 237px;
+    height: 25px;
+    margin: 0;
+    background-color: #fff;
+}
+.pic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.pic_{
+    display: flex;
+
+}
+
+.pic_one{
+    margin-right: 40px;
+}
+
+/* ---- */
+.footer_dawn{
+    display: flex;
+    width: 1440px;
+    margin-top: 77px;
+}
+
+.footer_dawn>p{
+    font-size: 12px;
+    font-family: Cardo;
+    
+}
+.copy{
+    width: 199px;
+    margin: 0 101px 0 240px ;
+}
+.terms{
+    margin-left: 79px ;
+    margin-top: -1px;
+}
+
+.pictures>img{
+    width: 66px;
+    height: 28px;
+    margin-right: 8px;
+    margin-top: -17px;
+}
+

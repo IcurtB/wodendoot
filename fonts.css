@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital@0;1&family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+
+.solo{
+    font-size: 12px;
+}
+
+.picture_text_area{
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 23.8px;
+    letter-spacing: 0.3px;
+}
+
+.roboto{
+    font-family: Roboto, serif;
+}
+
+.cardo{
+    font-family: 'Cardo', serif;
+}
+
+.textarea{
+    flex-direction: column;
+    align-content: space-between ;
+    line-height: 30.6px; 
+    font-size: 18px;
+}
+
+.ghost{
+    color: #525252;
+}
+
+.italic{
+    font-family: 'Cardo', serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+button{
+    border: none;
+    text-decoration: underline;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.right{
+    text-align: right;
+}
+
+.price{
+    font-size: 17px;
+}
+
+.red{
+    color: red;
+    font-style: italic;
+    font-size: 14px;
+}
+
+/* Alba Collection */
+
+.alba_head{
+    margin-bottom: 12px;
+}
+.alda_it{
+    margin-bottom: 3px;
+}
+.price_alba{
+    margin-bottom: 6px;
+}
+.alba_text_block{
+    margin-bottom: 5px;
+}
+.bonus_pool{
+    margin-bottom: 42px;
+}
+.button_shop{
+    margin-bottom: 45px;
+}
+/* ---- Inside Home ------- */
+
+.home_cardo{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 39px;
+    color:#3A3A3A;
+    margin: 0 0 18px 0;
+}
+.home_text{
+    /* font-weight: 400; */
+    font-size: 18px;
+    line-height: 33.43px;
+    color: #000000;
+    margin: 0 0 37px 0;
+    
+}
+.link{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+.underline{
+    text-decoration: underline;
+}
+
